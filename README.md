@@ -1,6 +1,6 @@
 # Error-logs
   
-[Error-log template](https://raw.githubusercontent.com/Souwy/Error-logs/master/Error-log-template.md) 
+[Error-log template](https://raw.githubusercontent.com/Celine-Elewa/Error-logs/master/Error-log-template.md) 
   
 ## What are the different types of error?
 ### Syntax error
