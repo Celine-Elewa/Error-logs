@@ -17,7 +17,7 @@ Everything works according to JS, but it doesn't do what you want to.
   
 ### Syntax error
   
-[Missing bracket after argument list](https://github.com/Souwy/Error-logs/blob/master/SyntaxError_missing-bracket-after-argument-list.md)
+[Missing bracket after argument list](https://github.com/Celine-Elewa/Error-logs/blob/master/SyntaxError_missing-bracket-after-argument-list.md)
   
 ### Runtime error
   
